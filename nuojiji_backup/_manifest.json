@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1780848136941,
+  "timestamp": 1780848144286,
   "appVersion": "5.5.0 (2026.06.05)",
   "tables": [
     "characters",
@@ -93,7 +93,8 @@
     "ttsAudio": true,
     "calendarData": true,
     "groupChats": true,
-    "stickerStore": true
+    "stickerStore": true,
+    "quickReplies": true
   },
   "inProgress": true
 }
