@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1781269799756,
+  "timestamp": 1781269807053,
   "appVersion": "6.8.0 (2026.06.12)",
   "tables": [
     "characters",
@@ -114,7 +114,8 @@
     "regexRules": true,
     "mcpServers": true,
     "thinkingStore": true,
-    "commitments": true
+    "commitments": true,
+    "characterLifeState": true
   },
   "inProgress": true
 }
