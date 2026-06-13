@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1781362109611,
-  "appVersion": "auto-backup",
+  "timestamp": 1781362115606,
+  "appVersion": "6.8.5 (2026.06.13)",
   "tables": [
     "characters",
     "worldBooks",
@@ -62,41 +62,8 @@
     "homelandState",
     "_migration"
   ],
-  "chunkedTables": {
-    "stickers": 9,
-    "messages": 10,
-    "tmStories": 5
-  },
   "completedTables": {
-    "worldBooks": true,
-    "users": true,
-    "userState": true,
-    "userPosts": true,
-    "favorites": true,
-    "memory": true,
-    "callLogs": true,
-    "tmSessions": true,
-    "multiSceneSessions": true,
-    "multiSceneStories": true,
-    "multiSceneCastSettings": true,
-    "multiSceneSessionSummaries": true,
-    "customNoises": true,
-    "flashMoments": true,
-    "userLinks": true,
-    "userMessages": true,
-    "ttsAudio": true,
-    "forumData": true,
-    "groupChats": true,
-    "xinsheng": true,
-    "pomodoroSessions": true,
-    "couplesData": true,
-    "imageStore": true,
-    "stickerStore": true,
-    "quickReplies": true,
-    "goingOutState": true,
-    "mapRasterCache": true,
-    "customGames": true
+    "characters": true
   },
-  "source": "auto",
   "inProgress": true
 }
