@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1781362200420,
-  "appVersion": "6.8.5 (2026.06.13)",
+  "timestamp": 1781362201736,
+  "appVersion": "auto-backup",
   "tables": [
     "characters",
     "worldBooks",
@@ -63,15 +63,48 @@
     "_migration"
   ],
   "chunkedTables": {
-    "messages": 1
+    "stickers": 9,
+    "messages": 10,
+    "tmStories": 5
   },
   "completedTables": {
-    "characters": true,
     "worldBooks": true,
-    "kaomojis": true,
     "users": true,
+    "userState": true,
     "userPosts": true,
-    "chatSettings": true
+    "favorites": true,
+    "memory": true,
+    "callLogs": true,
+    "tmSessions": true,
+    "multiSceneSessions": true,
+    "multiSceneStories": true,
+    "multiSceneCastSettings": true,
+    "multiSceneSessionSummaries": true,
+    "customNoises": true,
+    "flashMoments": true,
+    "userLinks": true,
+    "userMessages": true,
+    "ttsAudio": true,
+    "forumData": true,
+    "groupChats": true,
+    "xinsheng": true,
+    "pomodoroSessions": true,
+    "couplesData": true,
+    "imageStore": true,
+    "stickerStore": true,
+    "quickReplies": true,
+    "goingOutState": true,
+    "mapRasterCache": true,
+    "customGames": true,
+    "customWidgetTemplates": true,
+    "customWidgetState": true,
+    "wallpapers": true,
+    "whiteDogData": true,
+    "isekaiSaves": true,
+    "pomodoroData": true,
+    "regexRules": true,
+    "mcpServers": true
   },
+  "source": "auto",
   "inProgress": true
 }
