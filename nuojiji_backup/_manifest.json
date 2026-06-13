@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1781363250347,
+  "timestamp": 1781363254105,
   "appVersion": "6.8.5 (2026.06.13)",
   "tables": [
     "characters",
@@ -62,17 +62,26 @@
     "homelandState",
     "_migration"
   ],
+  "chunkedTables": {
+    "messages": 32
+  },
   "completedTables": {
     "characters": true,
     "worldBooks": true,
     "kaomojis": true,
     "users": true,
-    "userState": true,
     "userPosts": true,
     "chatSettings": true,
     "favorites": true,
     "memory": true,
-    "roleStickers": true
+    "summaryEntries": true,
+    "callLogs": true,
+    "roleStickers": true,
+    "tmSessions": true,
+    "tmStories": true,
+    "multiSceneSessions": true,
+    "multiSceneStories": true,
+    "multiSceneCastSettings": true
   },
   "inProgress": true
 }
