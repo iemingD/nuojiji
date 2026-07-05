@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1783274224819,
+  "timestamp": 1783274232418,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -64,7 +64,7 @@
   ],
   "chunkedTables": {
     "stickers": 9,
-    "messages": 419
+    "messages": 421
   },
   "completedTables": {
     "characters": true,
