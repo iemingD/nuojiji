@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1783874161088,
+  "timestamp": 1783874486171,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -60,15 +60,9 @@
     "healthEntries",
     "healthProfile",
     "homelandState",
+    "fontStore",
     "_migration"
   ],
-  "chunkedTables": {
-    "stickers": 6
-  },
-  "completedTables": {
-    "characters": true,
-    "worldBooks": true
-  },
   "source": "auto",
   "inProgress": true
 }
