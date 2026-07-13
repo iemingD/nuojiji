@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1783918990793,
-  "appVersion": "auto-backup",
+  "timestamp": 1783918999159,
+  "appVersion": "6.9.22 (2026.07.07)",
   "tables": [
     "characters",
     "worldBooks",
@@ -27,6 +27,7 @@
     "multiSceneSummaries",
     "multiSceneSessionSummaries",
     "customNoises",
+    "customBgm",
     "flashMoments",
     "groupSettings",
     "userLinks",
@@ -50,6 +51,7 @@
     "wallpapers",
     "whiteDogData",
     "isekaiSaves",
+    "isekaiPresets",
     "pomodoroData",
     "regexRules",
     "mcpServers",
@@ -61,11 +63,22 @@
     "healthProfile",
     "homelandState",
     "fontStore",
+    "radioData",
+    "naiVibeCache",
     "_migration"
   ],
-  "completedTables": {
-    "characters": true
+  "chunkedTables": {
+    "stickers": 6,
+    "messages": 8
   },
-  "source": "auto",
+  "completedTables": {
+    "characters": true,
+    "worldBooks": true,
+    "kaomojis": true,
+    "users": true,
+    "userState": true,
+    "userPosts": true,
+    "chatSettings": true
+  },
   "inProgress": true
 }
