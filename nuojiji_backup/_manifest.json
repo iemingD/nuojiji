@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1785149702758,
+  "timestamp": 1785156832723,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -67,19 +67,6 @@
     "naiVibeCache",
     "_migration"
   ],
-  "chunkedTables": {
-    "stickers": 4,
-    "messages": 92
-  },
-  "completedTables": {
-    "characters": true,
-    "worldBooks": true,
-    "kaomojis": true,
-    "users": true,
-    "userState": true,
-    "userPosts": true,
-    "chatSettings": true
-  },
   "source": "auto",
   "inProgress": true
 }
