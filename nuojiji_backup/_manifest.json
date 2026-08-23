@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1787484377927,
+  "timestamp": 1787484386450,
   "appVersion": "6.9.39 (2026.08.23)",
   "tables": [
     "characters",
@@ -142,7 +142,8 @@
     "radioData": true,
     "isekaiPresets": true,
     "naiVibeCache": true,
-    "_migration": true
+    "_migration": true,
+    "friendRequests": true
   },
   "inProgress": true
 }
