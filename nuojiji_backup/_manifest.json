@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1787501246130,
-  "appVersion": "6.9.39 (2026.08.23)",
+  "timestamp": 1787546301809,
+  "appVersion": "6.9.45 (2026.08.23)",
   "tables": [
     "characters",
     "friendRequests",
@@ -76,6 +76,11 @@
     "walletData",
     "shopOrders",
     "shopData",
+    "shopFulfillments",
+    "chatVariables",
+    "plugins",
+    "pluginAssets",
+    "pluginData",
     "charLifePlans",
     "_migration"
   ],
