@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1787552227447,
-  "appVersion": "6.9.45 (2026.08.23)",
+  "timestamp": 1787646937232,
+  "appVersion": "auto-backup",
   "tables": [
     "characters",
     "friendRequests",
@@ -51,6 +51,7 @@
     "customWidgetTemplates",
     "customWidgetState",
     "wallpapers",
+    "lifeRpgData",
     "whiteDogData",
     "isekaiSaves",
     "isekaiPresets",
@@ -161,5 +162,6 @@
     "shopData": true,
     "charLifePlans": true
   },
+  "source": "auto",
   "inProgress": true
 }
