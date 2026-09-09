@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1788285188651,
+  "timestamp": 1788915530650,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -36,6 +36,7 @@
     "ttsAudio",
     "forumData",
     "calendarData",
+    "customCalendars",
     "groupChats",
     "xinsheng",
     "pomodoroSessions",
@@ -69,6 +70,7 @@
     "radioData",
     "novelBooks",
     "novelChapters",
+    "novelVolumes",
     "coReadBooks",
     "coReadChapters",
     "coReadSessions",
@@ -81,8 +83,10 @@
     "shopFulfillments",
     "chatVariables",
     "plugins",
+    "avatarFrames",
     "pluginAssets",
     "pluginData",
+    "charBondSpaces",
     "charLifePlans",
     "_migration"
   ],
@@ -171,5 +175,5 @@
     "coReadQuotes": true
   },
   "source": "auto",
-  "inProgress": false
+  "inProgress": true
 }
