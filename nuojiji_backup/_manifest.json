@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1789607712705,
+  "timestamp": 1790218564112,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -47,7 +47,12 @@
     "goingOutState",
     "goingOutAreas",
     "goingOutLogs",
+    "jiliData",
+    "jiliCreators",
+    "jiliPosts",
+    "jiliDMs",
     "mapRasterCache",
+    "shareLinkMeta",
     "customGames",
     "customGameSaves",
     "customWidgetTemplates",
@@ -76,6 +81,12 @@
     "coReadChapters",
     "coReadSessions",
     "coReadQuotes",
+    "coReadTranslations",
+    "studyTalks",
+    "studyOutlines",
+    "studyQuizzes",
+    "studyGoals",
+    "studyExams",
     "naiVibeCache",
     "walletTransactions",
     "walletData",
@@ -84,6 +95,7 @@
     "shopFulfillments",
     "deliveryOrders",
     "deliveryData",
+    "deliveryBiz",
     "chatVariables",
     "plugins",
     "avatarFrames",
@@ -187,5 +199,5 @@
     "deliveryData": true
   },
   "source": "auto",
-  "inProgress": false
+  "inProgress": true
 }
